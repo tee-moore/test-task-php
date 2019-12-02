@@ -6,3 +6,7 @@
 ## Результат
 - Результат работы загрузить в свой репозиторий и отправить ссылку в Telegram @mykolai или же на почту nickolayb@bazucompany.com с темой **"Тестовое задание на позицию PHP разработчика"**.
 
+
+## How to install:
+1. Install composer
+2. Run ``composer dump-autoload``
